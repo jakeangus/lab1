@@ -1,3 +1,7 @@
 adding some text to story.txt
 
+<<<<<<< HEAD
 this is me adding some text about Han Solo. This is me adding something different to cause a conflict with branch 'conflict'.
+=======
+this is me adding some text about Han Solo. This is the sentence I added to test conflict on the conflict branch.
+>>>>>>> conflict
